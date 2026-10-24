@@ -1,0 +1,17 @@
+{
+  "name": "karasilia-skills",
+  "owner": {
+    "name": "KarasIlia"
+  },
+  "metadata": {
+    "description": "Personal Claude Code skills"
+  },
+  "plugins": [
+    {
+      "name": "learning",
+      "description": "Guided study sessions: theory, hands-on practice with self-checks, review, and curated sources. Domains: iOS/Swift and systems analysis.",
+      "source": "./plugins/learning",
+      "category": "learning"
+    }
+  ]
+}
